@@ -1,0 +1,13 @@
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\bin\Debug\netcoreapp3.1\Oddoccurdictionary.exe
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\bin\Debug\netcoreapp3.1\Oddoccurdictionary.deps.json
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\bin\Debug\netcoreapp3.1\Oddoccurdictionary.runtimeconfig.json
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\bin\Debug\netcoreapp3.1\Oddoccurdictionary.runtimeconfig.dev.json
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\bin\Debug\netcoreapp3.1\Oddoccurdictionary.dll
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\bin\Debug\netcoreapp3.1\Oddoccurdictionary.pdb
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\obj\Debug\netcoreapp3.1\Oddoccurdictionary.csprojAssemblyReference.cache
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\obj\Debug\netcoreapp3.1\Oddoccurdictionary.AssemblyInfoInputs.cache
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\obj\Debug\netcoreapp3.1\Oddoccurdictionary.AssemblyInfo.cs
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\obj\Debug\netcoreapp3.1\Oddoccurdictionary.csproj.CoreCompileInputs.cache
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\obj\Debug\netcoreapp3.1\Oddoccurdictionary.dll
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\obj\Debug\netcoreapp3.1\Oddoccurdictionary.pdb
+C:\Users\Administration\source\repos\Oddoccurdictionary\Oddoccurdictionary\obj\Debug\netcoreapp3.1\Oddoccurdictionary.genruntimeconfig.cache
